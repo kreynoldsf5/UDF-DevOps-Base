@@ -53,6 +53,8 @@ tags:
 
 9. Get Latest Version of the Lab
 
+TBD:: indicate that you should be in the repository directory.
+
     The labs in the UDF-DevOps-Base repository are constantly being updated and new labs are being added.  If it has been awhile since you forked the repository then now is a good time to update your local copy:
 
     ```bash
